@@ -7,4 +7,10 @@ a img {
 	border: 2px solid black;
 	width: 100px;
 	height: 100px;
+	opacity: 0.6;
 }
+
+a img:hover {
+	opacity: 1;
+}
+
